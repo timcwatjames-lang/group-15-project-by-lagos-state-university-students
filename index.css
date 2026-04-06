@@ -66,7 +66,7 @@
         /* media query for install button */
         @media (max-width: 480px) {
             .install-btn {
-                display: block;
+                display: none;
                 margin: 10px auto 0;
                 font-size: 12px;
             }
@@ -1018,7 +1018,7 @@
         }
 
         .lasu-section h2 {
-            color: #fffafa;
+            color: #eb1a82;
             margin-bottom: 15px;
             text-align: center;
         }
@@ -1119,6 +1119,7 @@
                 padding: 0 10px;
                 margin: 0 0 10px;
                 color: #eb1a82;
+            }
 
             .lasu-section p {
                 font-size: 16px;
